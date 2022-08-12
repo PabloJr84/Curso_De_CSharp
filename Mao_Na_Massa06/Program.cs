@@ -12,7 +12,7 @@ namespace Mao_Na_Massa06
         {
             Console.WriteLine("Testando Condicional");
             
-            int idade = 18;
+            int idade = 17;
             int acompanhado = 3;
 
             if (idade >= 18)
