@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mao_Na_Massa05", "Mao_Na_Massa05\Mao_Na_Massa05.csproj", "{EB3668E8-E494-4AB4-AD62-CF7F9FB247B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AtribuicoesDeVariaveis", "6-AtribuicoesDeVariaveis\6-AtribuicoesDeVariaveis.csproj", "{71033E34-D44D-424B-BD7B-50360812206F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{EB3668E8-E494-4AB4-AD62-CF7F9FB247B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB3668E8-E494-4AB4-AD62-CF7F9FB247B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB3668E8-E494-4AB4-AD62-CF7F9FB247B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71033E34-D44D-424B-BD7B-50360812206F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71033E34-D44D-424B-BD7B-50360812206F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71033E34-D44D-424B-BD7B-50360812206F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71033E34-D44D-424B-BD7B-50360812206F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

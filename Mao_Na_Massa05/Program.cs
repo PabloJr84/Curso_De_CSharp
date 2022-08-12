@@ -18,7 +18,7 @@ namespace Mao_Na_Massa05
 
             Console.WriteLine(saudacao + nome + continuacao + idade);
 
-            Console.WriteLine("Aperte Enter para Sair");
+            
             Console.ReadLine();
         }
     }
