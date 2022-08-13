@@ -14,12 +14,21 @@ namespace P10_CalculaPoupaca
 
 
             double valorinvestido = 1000;
+            int contadorMes = 1;
 
-            //0.36% = 0.0036
-            valorinvestido = valorinvestido + valorinvestido * 0.0036;
-            Console.WriteLine("Após 1 mês, você terá R$" + valorinvestido);
-            
-            
+            while (contadorMes <= 12)
+            {
+
+
+
+                //0.36% = 0.0036
+                valorinvestido = valorinvestido + valorinvestido * 0.0036;
+                Console.WriteLine("Após "  + contadorMes+ " mês, você terá R$ " + valorinvestido);
+                contadorMes = contadorMes + 1;
+
+
+
+            }
             
             
             
