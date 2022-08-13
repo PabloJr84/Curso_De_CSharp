@@ -24,9 +24,10 @@ namespace P10_CalculaPoupaca
                 //0.36% = 0.0036
                 valorinvestido = valorinvestido + valorinvestido * 0.0036;
                 Console.WriteLine("Após "  + contadorMes+ " mês, você terá R$ " + valorinvestido);
-                contadorMes = contadorMes + 1;
 
-
+                //contadorMes = contadorMes + 1;
+                //contadorMes += 1;
+                contadorMes++;
 
             }
             
