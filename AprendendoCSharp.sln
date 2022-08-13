@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Esco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10-CalculaPoupaca", "P10-CalculaPoupaca\P10-CalculaPoupaca.csproj", "{02321C96-68E9-4C1D-9F79-7A97057FE70D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mao_Na_Massa07", "Mao_Na_Massa07\Mao_Na_Massa07.csproj", "{410CEDC9-4923-415F-BA45-2BF28237971A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{02321C96-68E9-4C1D-9F79-7A97057FE70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02321C96-68E9-4C1D-9F79-7A97057FE70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02321C96-68E9-4C1D-9F79-7A97057FE70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410CEDC9-4923-415F-BA45-2BF28237971A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410CEDC9-4923-415F-BA45-2BF28237971A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410CEDC9-4923-415F-BA45-2BF28237971A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410CEDC9-4923-415F-BA45-2BF28237971A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
