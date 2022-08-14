@@ -12,7 +12,7 @@ namespace Mao_Na_Massa07
         {
             Console.WriteLine(" Mão Na Massa 08");
 
-            int contador = 10;
+            int contador = 1;
 
             while (contador <=50)
             {
