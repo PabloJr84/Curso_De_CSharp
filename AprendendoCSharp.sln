@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mao_Na_Massa07", "Mao_Na_Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11-CalculaPoupanca2", "P11-CalculaPoupanca2\P11-CalculaPoupanca2.csproj", "{F6441E92-0AB8-4DD8-A4A4-F86B49509B82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12CalculaInvestimentoLongoPrazo", "P12CalculaInvestimentoLongoPrazo\P12CalculaInvestimentoLongoPrazo.csproj", "{0A50720C-47AB-4475-B589-D844AFC60460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mao_Na_Massa08", "Mao_Na_Massa08\Mao_Na_Massa08.csproj", "{671022FB-C25D-46E6-827B-0A83548879B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{F6441E92-0AB8-4DD8-A4A4-F86B49509B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6441E92-0AB8-4DD8-A4A4-F86B49509B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6441E92-0AB8-4DD8-A4A4-F86B49509B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A50720C-47AB-4475-B589-D844AFC60460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A50720C-47AB-4475-B589-D844AFC60460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A50720C-47AB-4475-B589-D844AFC60460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A50720C-47AB-4475-B589-D844AFC60460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671022FB-C25D-46E6-827B-0A83548879B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671022FB-C25D-46E6-827B-0A83548879B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671022FB-C25D-46E6-827B-0A83548879B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671022FB-C25D-46E6-827B-0A83548879B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
