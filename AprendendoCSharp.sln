@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12CalculaInvestimentoLongo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mao_Na_Massa08", "Mao_Na_Massa08\Mao_Na_Massa08.csproj", "{671022FB-C25D-46E6-827B-0A83548879B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13-Encadeado", "P13-Encadeado\P13-Encadeado.csproj", "{EDF1B968-6703-47A0-81FE-A19C1DFB7ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mao_Na_Massa09", "Mao_Na_Massa09\Mao_Na_Massa09.csproj", "{E096C224-3BC4-4EEB-92A7-2B2CFE191325}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{671022FB-C25D-46E6-827B-0A83548879B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{671022FB-C25D-46E6-827B-0A83548879B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{671022FB-C25D-46E6-827B-0A83548879B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF1B968-6703-47A0-81FE-A19C1DFB7ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF1B968-6703-47A0-81FE-A19C1DFB7ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF1B968-6703-47A0-81FE-A19C1DFB7ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF1B968-6703-47A0-81FE-A19C1DFB7ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E096C224-3BC4-4EEB-92A7-2B2CFE191325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E096C224-3BC4-4EEB-92A7-2B2CFE191325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E096C224-3BC4-4EEB-92A7-2B2CFE191325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E096C224-3BC4-4EEB-92A7-2B2CFE191325}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
